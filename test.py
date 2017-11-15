@@ -15,4 +15,4 @@ array = divtab.find_all("a",class_="list-group-item")
 for v in array:
     print(v.string)
 #testだよ
-#topic1だよ
+#topic2だよ
